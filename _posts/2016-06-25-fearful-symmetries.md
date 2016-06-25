@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FEARFUL SYMMETRIES
-datePublished: '2016-06-25T22:36:45.171Z'
-dateModified: '2016-06-25T22:36:41.099Z'
+datePublished: '2016-06-25T22:40:14.197Z'
+dateModified: '2016-06-25T22:38:32.199Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-25-fearful-symmetries.md
