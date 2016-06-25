@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FEARFUL SYMMETRIES
-datePublished: '2016-06-25T22:40:14.197Z'
-dateModified: '2016-06-25T22:38:32.199Z'
+datePublished: '2016-06-25T22:50:40.101Z'
+dateModified: '2016-06-25T22:50:39.697Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-25-fearful-symmetries.md
@@ -46,7 +46,7 @@ So, The Wizard and Mr. Oz are the same person. Mr. Oz (Wizard) is Ozymandias fro
 In the third frame above, Mr Oz states "You and your family are not what you believe you are. So Ozymandias knows that this Clark Kent is not Clark Kent. We also know that Ozymandias helped to teach (raise?) this Clark Kent.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de9a29d-64f3-4d5f-b931-ab6b5c37f3b3.jpg)
 
-So, if Ozymandias raised someone who is not Clark Kent to be Clark Kent/Superman, who could this Superman be? This is part of Superman's origin from the Superman 32 (the same issue we first meet Mr. Oz).
+So, if Ozymandias raised someone who is not Clark Kent to be Clark Kent/Superman, who could this Superman be? The baby is baby clark Kent from Superman's origin in Superman 32 (the same issue we first meet Mr. Oz).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6edcd18-7dd3-489d-a1ee-dc3287db62f6.jpg)
 
 In DC special new 52 free comic book day, we see the Council of Eternity with Wizard (Ozymandias) as the head of the council pass judgement on Rorschach. Dr. Manhatten then removes Rorschach's face and memories (this was punishment for excessiveness) and Rorscach becomes the Question. The Council of Eternity members all seemingly die in several different comics. Then in Superman 32 The Wizard (Ozymandias) shows up again as Mr. Oz who taught baby Dr. Manhatten that he is Clark Kent/Superman.
