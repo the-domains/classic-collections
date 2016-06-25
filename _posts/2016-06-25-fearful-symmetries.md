@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FEARFUL SYMMETRIES
-datePublished: '2016-06-25T21:40:48.812Z'
-dateModified: '2016-06-25T21:33:14.227Z'
+datePublished: '2016-06-25T22:04:44.526Z'
+dateModified: '2016-06-25T22:03:59.401Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-25-fearful-symmetries.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-25-fearful-symmetries.md
+starred: true
 url: fearful-symmetries/index.html
 _type: Article
 
@@ -21,27 +21,19 @@ _type: Article
 
 **BY JEFF LILIENTHAL**
 
-In
-June of 2016, the DC universe was reborn. In DC Universe Rebirth \#1
-we learn that the Watchmen characters are being incorporated into
-this newly reborn universe.
+In June of 2016, the DC universe was reborn. In DC Universe Rebirth \#1 we learn that the Watchmen characters are being incorporated into this newly reborn universe.
 
-The
-first page we see here is from dc special free comic book day new 52 2012\.
-The second page is Watchmen issue 5 page 28
+The first page we see here is from dc special free comic book day new 52 2012\. The second page is Watchmen issue 5 page 28
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b292b8e3-5eea-403c-b650-5f156de05299.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72f7aa79-ea7e-41f0-852c-bbfb02d415c7.jpg)
 
-The top 3 panels of the DC special page is part of the origin of the Question of the new 52 universe. 
-In it we see a man being punished by taking his face and his
-identity. 
+The top 3 panels of the DC special page is part of the origin of the Question of the new 52 universe. In it we see a man being punished by taking his face and his identity. 
 
 Look at the last 4 panels of Watchmen issue 5 page 28\. In it we see Rorschach being arrested. He is a man being punished by taking his face and revealing his identity.
 
 In both DC special and Watchmen we see two panels of this man screaming, open-mouthed, and out of control saliva (flying vs dripping). To further prove that these panels are supposed to be compared to each other, the next panel of both issues have the same main color (blue -- it looks much better if you are looking at the original comics, the colors in these scans don't do the comparison justice). 
 
-The man who becomes the Question yells
-"I defy your authority!" While Rorscach is defying authority.
+The man who becomes the Question yells "I defy your authority!" While Rorscach is defying authority.
 
 In DC special 2nd panel , the man yells "And you will fear my name as does the world". And in the second panel of screaming Rorschach, he is referred to as the "terror of the underworld". 
 
@@ -52,8 +44,9 @@ Mr. Oz is The Wizard from the Council of Eternity!!! Hehehe -- wizard of oz. In 
 So, The Wizard and Mr. Oz are the same person. Mr. Oz (Wizard) is Ozymandias from Watchmen. The other being on the council of Eternity that has a glowing blue animal bear is Dr. Manhatten (well - the bear is at least, not the being wearing him). And the question is Rorschach.
 
 In the third frame above, Mr Oz states "You and your family are not what you believe you are. So Ozymandias knows that this Clark Kent is not Clark Kent. We also know that Ozymandias helped to teach (raise?) this Clark Kent.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/46cb1dc0-7a96-4df0-8fdf-3fe3ec849a6c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3de9a29d-64f3-4d5f-b931-ab6b5c37f3b3.jpg)
 
-So, if Ozymandias raised someone who is not Clark Kent to be Clark Kent/Superman, who could this Superman be?  This is part of Superman's origin from the Superman 32 (the same issue we first meet Mr. Oz).  ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f5dcfb4-e4ef-4e55-9647-6778cca94f63.jpg)
+So, if Ozymandias raised someone who is not Clark Kent to be Clark Kent/Superman, who could this Superman be? This is part of Superman's origin from the Superman 32 (the same issue we first meet Mr. Oz).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6edcd18-7dd3-489d-a1ee-dc3287db62f6.jpg)
 
-In DC special new 52 free comic book day, we see the Council of Eternity with Wizard (Ozymandias) as the head of the council pass judgement on Rorschach.  Dr. Manhatten then removes Rorschach's face and memories (this was punishment for excessiveness) and Rorscach becomes the Question.  The Council of Eternity members all seemingly die in several different comics.  Then in Superman 32 The Wizard (Ozymandias) shows up again as Mr. Oz who taught baby Dr. Manhatten that he is Clark Kent/Superman.
+In DC special new 52 free comic book day, we see the Council of Eternity with Wizard (Ozymandias) as the head of the council pass judgement on Rorschach. Dr. Manhatten then removes Rorschach's face and memories (this was punishment for excessiveness) and Rorscach becomes the Question. The Council of Eternity members all seemingly die in several different comics. Then in Superman 32 The Wizard (Ozymandias) shows up again as Mr. Oz who taught baby Dr. Manhatten that he is Clark Kent/Superman.
