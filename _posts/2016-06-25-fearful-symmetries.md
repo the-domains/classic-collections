@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: FEARFUL SYMMETRIES
-datePublished: '2016-06-25T22:50:40.101Z'
-dateModified: '2016-06-25T22:50:39.697Z'
+datePublished: '2016-06-25T23:12:57.761Z'
+dateModified: '2016-06-25T23:12:39.496Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-25-fearful-symmetries.md
@@ -39,7 +39,7 @@ In DC special 2nd panel , the man yells "And you will fear my name as does the w
 
 In DC special, the unnamed man yells, "If you do not kill me, I will rise to power again". In Watchmen, they did not kill Rorscach and he rose to power again (escaped from jail and returned to being Rorscah). At the end of Watchmen, Dr Manhatten understood that this was part of Rorscach's character and could not take the risk of Rorschach being allowed to live. If given the opportunity, perhaps Dr. Manhatten would choose a different way of dealing with him (like maybe removing his face, memories, and identity). Maybe we should take a closer look at that being with the glowing blue animal (bear?) who took away that man's face and memories. Could it be Dr. Manhatten? That being was on the council of eternity before his apparent death. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b748f3ff-1de5-4b1c-947a-3d57dacdf992.jpg)
 
-Mr. Oz is The Wizard from the Council of Eternity!!! Hehehe -- wizard of oz. In the Council of Eternity the guy with the glowing blue animal skin on him is Dr. Manhatten (actually, the animal is, the guy under him is probably not). The Wizard is the guy sitting in the middle with the beard and red cape. He has a staff. The Wizard appears to die in Trinity of Sin: Pandora 1 (Oct 2013), but upon closer examination, he doesn't actually die, he just disappears in a bolt of lightning. A few months later (Aug 2014), Mr. Oz shows up in Superman 32 watching Superman on a bunch of screens like Ozymandias used to do in Watchmen. Mr. Oz is holding a staff. Wizard + shave and a haircut = Mr. Oz. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e877f7f-4a9f-4cf6-9f19-43e7379b068d.jpg)
+Mr. Oz is The Wizard from the Council of Eternity!!! He is the person responsible for everything, the man behind the curtain, the wizard of oz - Ozymandias. In the Council of Eternity the guy with the glowing blue animal skin on him is Dr. Manhatten (actually, the animal is, the guy under him is probably not). The Wizard is the guy sitting in the middle with the beard and red cape. He has a staff. The Wizard appears to die in Trinity of Sin: Pandora 1 (Oct 2013), but upon closer examination, he doesn't actually die, he just disappears in a bolt of lightning. A few months later (Aug 2014), Mr. Oz shows up in Superman 32 watching Superman on a bunch of screens like Ozymandias used to do in Watchmen. Mr. Oz is holding a staff. Wizard + shave and a haircut = Mr. Oz. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e877f7f-4a9f-4cf6-9f19-43e7379b068d.jpg)
 
 So, The Wizard and Mr. Oz are the same person. Mr. Oz (Wizard) is Ozymandias from Watchmen. The other being on the council of Eternity that has a glowing blue animal bear is Dr. Manhatten (well - the bear is at least, not the being wearing him). And the question is Rorschach.
 
